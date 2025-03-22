@@ -1,7 +1,10 @@
 # keyATM 0.5.2
 ### Minor changes
 * Updating the paper information
-* Deleting the `save()` function (thank you [@AMindToThink](https://github.com/AMindToThink) for repoting this error in [#214](https://github.com/keyATM/keyATM/issues/214))
+* Deleting the `save()` function (thank you [@AMindToThink](https://github.com/AMindToThink) for reposting this error in [#214](https://github.com/keyATM/keyATM/issues/214))
+
+### Bug fix
+* A bug fix in the semantic coherence function.
 
 # keyATM 0.5.1
 
